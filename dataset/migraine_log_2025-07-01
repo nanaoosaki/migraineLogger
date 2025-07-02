@@ -1,0 +1,188 @@
+{
+  "Date": "2025-07-01",
+  "TimelineEvents": [
+    {
+      "Time": "2025-07-01T22:00",
+      "Type": "sleep_note",
+      "Subtype": "bedtime",
+      "Notes": "In bed after late budgeting; took Unisom 12.5 mg. Brief 10-min 'sensory fast-forward' anxiety episode."
+    },
+    {
+      "Time": "2025-07-01T22:30",
+      "Type": "sleep_note",
+      "Subtype": "asleep",
+      "Notes": "Fell asleep after anxiety episode."
+    },
+    {
+      "Time": "2025-07-01T02:00",
+      "Type": "sleep_note",
+      "Subtype": "restless_awake",
+      "Notes": "Awoke anxious, neck stiff; used warm pad + patch, dozed on/off."
+    },
+    {
+      "Time": "2025-07-01T05:24",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "Up for day; total ≈6 h fragmented."
+    },
+    {
+      "Time": "2025-07-01T05:24",
+      "Type": "pain",
+      "Subtype": "wakeup_state",
+      "Value": 2,
+      "Units": "1-10",
+      "Notes": "Fog 2 → 1 after water; right-temple tightness 2/10, right posterior-neck 2, left-scap dull 1. Underlying money/job anxiety."
+    },
+    {
+      "Time": "2025-07-01T05:40",
+      "Type": "hydration",
+      "Subtype": "plain_water",
+      "Value": 8,
+      "Units": "oz",
+      "Notes": "8 oz plain water"
+    },
+    {
+      "Time": "2025-07-01T06:45",
+      "Type": "hydration",
+      "Subtype": "bottle_1_electrolyte",
+      "Value": 32,
+      "Units": "oz",
+      "Notes": "Bottle #1, 1/4 pkt electrolytes; 16 oz down by 07:10, finished by 08:00"
+    },
+    {
+      "Time": "2025-07-01T06:54",
+      "Type": "meal",
+      "Subtype": "breakfast",
+      "Notes": "Oatmeal + blueberries + 1 steamed egg"
+    },
+    {
+      "Time": "2025-07-01T07:05",
+      "Type": "supplement",
+      "Subtype": "Riboflavin",
+      "Value": 400,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-07-01T07:05",
+      "Type": "supplement",
+      "Subtype": "Magnesium glycinate",
+      "Value": 135,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-07-01T07:05",
+      "Type": "supplement",
+      "Subtype": "Fish-oil",
+      "Notes": "Fish-oil soft-gel #1"
+    },
+    {
+      "Time": "2025-07-01T07:00",
+      "Type": "bodycare",
+      "Subtype": "neck_and_scap_therapy",
+      "Notes": "Chin-tucks ×10, ear-to-shoulder stretch 10 breaths/side, 'armpit-smell' stretch 10 breaths/side, lacrosse-ball press-release on right scap. Warm 3 min + cool cloth 45 s on right occiput."
+    },
+    {
+      "Time": "2025-07-01T07:10",
+      "Type": "caffeine",
+      "Subtype": "pour_over_coffee",
+      "Value": 120,
+      "Units": "mg",
+      "Notes": "Finished"
+    },
+    {
+      "Time": "2025-07-01T12:30",
+      "Type": "meal",
+      "Subtype": "lunch",
+      "Notes": "Rice + vegetables, light-seasoned to skip soy sauce"
+    },
+    {
+      "Time": "2025-07-01T13:00",
+      "Type": "hydration",
+      "Subtype": "bottle_2_plain",
+      "Value": 32,
+      "Units": "oz",
+      "Notes": "Bottle #2 (plain), finished by 13:00; cumulative fluids ≈64 oz"
+    },
+    {
+      "Time": "2025-07-01T13:38",
+      "Type": "stress",
+      "Subtype": "mentor_meeting",
+      "Value": 2.5,
+      "Units": "1-10",
+      "Notes": "Emotional tears (positive), right-temple tension briefly up to 2.5/10; cool cloth + slow breathing → back to 2/10 within 15 min"
+    },
+    {
+      "Time": "2025-07-01T15:30",
+      "Type": "meal",
+      "Subtype": "snack",
+      "Notes": "Two string-cheese sticks"
+    },
+    {
+      "Time": "2025-07-01T18:00",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "Homemade spicy-sour soup (contained soy-sauce base)"
+    },
+    {
+      "Time": "2025-07-01T19:45",
+      "Type": "bodycare",
+      "Subtype": "contrast_therapy",
+      "Notes": "Contrast set on right neck/scap (warm 5 min → cool 1 min); small pillow under elbow while reading to keep scapula level"
+    },
+    {
+      "Time": "2025-07-01T21:30",
+      "Type": "pain",
+      "Subtype": "evening_status",
+      "Value": 1.5,
+      "Units": "1-10",
+      "Notes": "Pain: right-temple ≤1.5, neck ≤1.5, left scap calm. Fog 0. Still mild money/job rumination."
+    },
+    {
+      "Time": "2025-07-01T21:30",
+      "Type": "supplement",
+      "Subtype": "missed",
+      "Notes": "Skipped Mg glycinate & Fish-oil soft-gel #3"
+    },
+    {
+      "Time": "2025-07-01T21:30",
+      "Type": "activity",
+      "Subtype": "movie",
+      "Notes": "Horror movie: 28 Weeks Later"
+    },
+    {
+      "Time": "2025-07-01T22:00",
+      "Type": "med",
+      "Subtype": "Unisom",
+      "Value": 12.5,
+      "Units": "mg",
+      "Notes": "Bedtime dose"
+    }
+  ],
+  "SleepWindow": { "Bed": "22:00", "Wake": "05:24" },
+  "CaffeineMg": 120,
+  "HydrationOz": 64,
+  "StressLevel": 2,
+  "StressNotes": "Mentor meeting, mild money/job rumination. Anxiety spike around midnight.",
+  "Meals": [
+    { "Time": "06:54", "Skipped": false, "Notes": "Oatmeal + blueberries + 1 steamed egg" },
+    { "Time": "12:30", "Skipped": false, "Notes": "Rice + vegetables (light-seasoned, no soy sauce)" },
+    { "Time": "15:30", "Skipped": false, "Notes": "String-cheese sticks" },
+    { "Time": "18:00", "Skipped": false, "Notes": "Spicy-sour soup (soy-sauce base)" }
+  ],
+  "Medications": [
+    { "Time": "22:00", "Name": "Unisom", "Dose": "12.5 mg" }
+  ],
+  "PainEpisodes": [
+    {
+      "Start": "2025-07-01T05:24",
+      "Peak": "2025-07-01T13:38",
+      "End": "2025-07-01T21:30",
+      "Location": "Right temple, right posterior neck, left scap",
+      "Intensity": [2, 2.5, 1.5],
+      "Notes": "Pain up to 2.5/10 after emotional meeting; resolved to ≤1.5 by bedtime."
+    }
+  ],
+  "Weather": {},
+  "Reflection": {},
+  "Notes": "Skipped evening Mg and fish-oil. Movie: 28 Weeks Later. Anxiety episode at bedtime, fragmented sleep."
+}
