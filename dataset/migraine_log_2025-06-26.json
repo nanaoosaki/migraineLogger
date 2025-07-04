@@ -1,0 +1,95 @@
+{
+  "Date": "2025-06-26",
+  "TimelineEvents": [
+    {
+      "Time": "2025-06-26T05:41",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "Morning: not logged Evening 5 :41 p.m.: Magnesium glycinate 135 mg + Fish-oil soft-gel #2 (~720 mg EPA + DHA)",
+      "Value": 135.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-26T07:00",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "#1 07 :00 heat 10 min → ice 2 min #2 12 :00 heat 10 min → ice 2 min #3 15 :08 heat 10 min → ice 2 min #4 18 :39 heat 10 min → ice 2 min"
+    },
+    {
+      "Time": "2025-06-26T08:13",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "evening status 8 :13 p.m.: Head clear, fog 0/10; patches still on; fluids tapered; ready for sleep"
+    },
+    {
+      "Time": "2025-06-26T11:17",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "topicals / patches: Salonpas patch to right scapula (late morning, replaced once) Extra patch to posterior neck 11 :17 a.m."
+    },
+    {
+      "Time": "2025-06-26T11:45",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "Breakfast 6 a.m. – yogurt, blueberries, almonds / walnuts, poppy seeds, honey Lunch 11 :45 a.m. – ½ pan tofu-tomato-pepper stir-fry (1 tsp avo oil + 1 tsp olive oil) Snack 3 :08 p.m. – 2 string-cheese sticks Snack 4 :26 p.m. – ½ Chinese fried pancake Dinner 5 :14 p.m. – second half of stir-fry"
+    },
+    {
+      "Time": "2025-06-26T12:00",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "Clear head on rising; mild fatigue from the short night"
+    },
+    {
+      "Time": "2025-06-26T12:00",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "Bottle #1 30 oz (+½ electrolyte pkt) finished 10 a.m. Bottle #2 32 oz (+½ pkt) finished just before dinner. Bottle #3 20 oz begun 5 p.m.; half (10 oz) consumed by evening; tapered afterward.",
+      "Value": 92,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-06-26T12:00",
+      "Type": "caffeine",
+      "Subtype": "coffee",
+      "Notes": "8-oz drip coffee (~95 mg) on waking Green-tea mug (~70 mg) around noon",
+      "Value": 95,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-26T12:00",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "Morning stretch circuit (chin-tucks, trapezius “armpit-smell” stretch × 15/side, side-tilt stretch × 15/side, Mulligan towel turns 15 s/side)"
+    },
+    {
+      "Time": "2025-06-26T12:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "symptoms timeline: • Mild right-scapular ache & slight top-right head tension late morning – eased with patch + contrast • Fog stayed 0–1 / 10 all day • Shoulder & neck remained comfortable into the evening"
+    }
+  ],
+  "SleepWindow": {
+    "Bed": "",
+    "Wake": "12:00"
+  },
+  "CaffeineMg": 95,
+  "HydrationOz": 92,
+  "StressLevel": null,
+  "StressNotes": "",
+  "Meals": [
+    {
+      "Time": "11:45",
+      "Skipped": false,
+      "Notes": "Breakfast 6 a.m. – yogurt, blueberries, almonds / walnuts, poppy seeds, honey Lunch 11 :45 a.m. – ½ pan tofu-tomato-pepper stir-fry (1 tsp avo oil + 1 tsp olive oil) Snack 3 :08 p.m. – 2 string-cheese sticks Snack 4 :26 p.m. – ½ Chinese fried pancake Dinner 5 :14 p.m. – second half of stir-fry"
+    }
+  ],
+  "Medications": [],
+  "PainEpisodes": [],
+  "Weather": {},
+  "Reflection": {
+    "Accomplishments": "",
+    "Bothering": "",
+    "TomorrowPlan": ""
+  },
+  "Notes": ""
+}

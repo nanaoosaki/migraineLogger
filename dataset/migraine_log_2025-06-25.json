@@ -1,0 +1,198 @@
+{
+  "Date": "2025-06-25",
+  "TimelineEvents": [
+    {
+      "Time": "2025-06-25T02:45",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "String-cheese sticks × 2 (2 : 45 p.m.)"
+    },
+    {
+      "Time": "2025-06-25T03:04",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "neck / posture sets: 06 a.m. routine · 3 : 04 p.m. routine (chin-tucks, trapezius stretch, Mulligan, lacrosse-ball scalp, tennis-ball roll)"
+    },
+    {
+      "Time": "2025-06-25T03:26",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "Orion Cosomi cracker pack (3 : 26 p.m.)"
+    },
+    {
+      "Time": "2025-06-25T03:26",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "3 : 26 p.m. hot 10 min → ice 2 min to neck; Salonpas patch reapplied to right scapula"
+    },
+    {
+      "Time": "2025-06-25T04:10",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "Full migraine began ~ 4 p.m. (after 12–2 p.m. meeting) → lasted to ~ 3 a.m.• Ubrogepant 50 mg @ 4 : 10 p.m.• Combo tablet acetaminophen 250 mg + aspirin 250 mg + caffeine 35 mg @ 4 : 15 p.m.",
+      "Value": 50.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-25T06:18",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "5–6 → 2–3 after breakfast → 1–2 after coffee (6 : 18 a.m.)"
+    },
+    {
+      "Time": "2025-06-25T06:18",
+      "Type": "caffeine",
+      "Subtype": "coffee",
+      "Notes": "Pour-over finished 6 : 18 a.m."
+    },
+    {
+      "Time": "2025-06-25T07:48",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "Bottle #1 30 oz (+½ pkt electrolytes) by 7 : 48 a.m. Bottle #2 ≈ 30 oz (+½ pkt) finished by ~ 2 p.m. Bottle #3 started late afternoon",
+      "Value": 60,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-06-25T08:45",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "08 : 45 warm-up walk 5 min · foam-roll 15 min · PT full-body 1 h"
+    },
+    {
+      "Time": "2025-06-25T12:00",
+      "Type": "meal",
+      "Subtype": "breakfast",
+      "Notes": "Greek yogurt · blueberries · almonds/pecans · poppy seeds · honey"
+    },
+    {
+      "Time": "2025-06-25T12:00",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "B₂ 400 mg ✔︎ · Mg 135 mg ✔︎ · Fish-oil #1 ✔︎",
+      "Value": 400.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-25T12:00",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "Mg 135 mg ✔︎ · Fish-oil #2 ✔︎",
+      "Value": 135.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-25T12:00",
+      "Type": "stress",
+      "Subtype": "meeting",
+      "Notes": "12:00 1on1 w DVG ; feel frustrated with him; 1:00 with AIC meeting, too excited and nervous"
+    },
+    {
+      "Time": "2025-06-25T12:00",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "6 p.m. – Fried boneless chicken × 5–6 · celery × 5 & carrot × 4 sticks · ½ ranch cup · rosemary bread slice · roasted cherry tomatoes × 4"
+    },
+    {
+      "Time": "2025-06-25T12:00",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "Mg 135 mg ✔︎ · Fish-oil #3 ✔︎",
+      "Value": 135.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-25T12:00",
+      "Type": "pain",
+      "Subtype": "status_update",
+      "Notes": "Patch and lidocaine cream numbed area; pain ~ 0–1 / 10",
+      "Value": 1,
+      "Units": "1-10"
+    },
+    {
+      "Time": "2025-06-25T12:00",
+      "Type": "pain",
+      "Subtype": "status_update",
+      "Notes": "Deep fatigue, mild heaviness but fog stayed ≤ 2 / 10",
+      "Value": 2,
+      "Units": "1-10"
+    },
+    {
+      "Time": "2025-06-25T12:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "notes: Meeting-triggered migraine controlled by early ubrogepant + combo OTC. Contrast therapy, patches, and stretches kept shoulder trigger quiet. Total nutraceuticals: B₂ 400 mg · Mg 405 mg · Fish-oil 3 g."
+    },
+    {
+      "Time": "2025-06-25T12:10",
+      "Type": "meal",
+      "Subtype": "lunch",
+      "Notes": "Grilled salmon + arugula salad (12 : 10 p.m.)"
+    }
+  ],
+  "SleepWindow": {
+    "Bed": "",
+    "Wake": "06:18"
+  },
+  "CaffeineMg": 0,
+  "HydrationOz": 60,
+  "StressLevel": null,
+  "StressNotes": "",
+  "Meals": [
+    {
+      "Time": "12:00",
+      "Skipped": false,
+      "Notes": "Greek yogurt · blueberries · almonds/pecans · poppy seeds · honey"
+    },
+    {
+      "Time": "12:10",
+      "Skipped": false,
+      "Notes": "Grilled salmon + arugula salad (12 : 10 p.m.)"
+    },
+    {
+      "Time": "02:45",
+      "Skipped": false,
+      "Notes": "String-cheese sticks × 2 (2 : 45 p.m.)"
+    },
+    {
+      "Time": "03:26",
+      "Skipped": false,
+      "Notes": "Orion Cosomi cracker pack (3 : 26 p.m.)"
+    },
+    {
+      "Time": "12:00",
+      "Skipped": false,
+      "Notes": "6 p.m. – Fried boneless chicken × 5–6 · celery × 5 & carrot × 4 sticks · ½ ranch cup · rosemary bread slice · roasted cherry tomatoes × 4"
+    }
+  ],
+  "Medications": [],
+  "PainEpisodes": [
+    {
+      "Start": "2025-06-25T12:00",
+      "Peak": "2025-06-25T12:00",
+      "End": null,
+      "Location": "General",
+      "Intensity": [
+        1
+      ],
+      "Notes": "Patch and lidocaine cream numbed area; pain ~ 0–1 / 10"
+    },
+    {
+      "Start": "2025-06-25T12:00",
+      "Peak": "2025-06-25T12:00",
+      "End": null,
+      "Location": "General",
+      "Intensity": [
+        2
+      ],
+      "Notes": "Deep fatigue, mild heaviness but fog stayed ≤ 2 / 10"
+    }
+  ],
+  "Weather": {},
+  "Reflection": {
+    "Accomplishments": "",
+    "Bothering": "",
+    "TomorrowPlan": ""
+  },
+  "Notes": ""
+}

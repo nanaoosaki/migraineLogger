@@ -1,0 +1,153 @@
+{
+  "Date": "2025-07-01",
+  "TimelineEvents": [
+    {
+      "Time": "2025-07-01T02:00",
+      "Type": "sleep_note",
+      "Subtype": "restless_awake",
+      "Notes": "Awake"
+    },
+    {
+      "Time": "2025-07-01T05:24",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "Up for day"
+    },
+    {
+      "Time": "2025-07-01T05:24",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "Fog 2 → 1 after water; right-temple tightness 2 / 10, right posterior-neck 2, left-scap dull 1. Underlying money/job anxiety."
+    },
+    {
+      "Time": "2025-07-01T05:40",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "08 oz plain water ✔︎ (05 : 40) Bottle #1 32 oz + ¼ pkt electrolytes opened 06 : 45 → 16 oz down by 07 : 10 → finished by 08 : 00.",
+      "Value": 56,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-07-01T06:54",
+      "Type": "meal",
+      "Subtype": "breakfast",
+      "Notes": "Oatmeal + blueberries + 1 steamed egg."
+    },
+    {
+      "Time": "2025-07-01T07:00",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "Chin-tucks ×10 • Ear-to-shoulder stretch 10 breaths/side • “Armpit-smell” stretch 10 breaths/side • Lacrosse-ball press-release on right scap (07 : 00) • Warm 3 min + cool cloth 45 s on right occiput."
+    },
+    {
+      "Time": "2025-07-01T07:05",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "Riboflavin 400 mg • Magnesium glycinate 135 mg • Fish-oil soft-gel #1.",
+      "Value": 400.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-07-01T07:10",
+      "Type": "caffeine",
+      "Subtype": "coffee",
+      "Notes": "Pour-over coffee (~120 mg) finished 07 : 10.",
+      "Value": 120,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-07-01T12:00",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "Skipped Mg glycinate & Fish-oil soft-gel #3 (user note)."
+    },
+    {
+      "Time": "2025-07-01T12:00",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "Horror movie 28 weeks later"
+    },
+    {
+      "Time": "2025-07-01T12:30",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "mid-day: Lunch 12 : 30 – 13 : 00 (rice + vegetables; light-seasoned to skip soy sauce). Finished Bottle #2 32 oz (plain) by 13 : 00 → cumulative fluids ≈ 64 oz."
+    },
+    {
+      "Time": "2025-07-01T13:38",
+      "Type": "stress",
+      "Subtype": "meeting",
+      "Notes": "Emotional tears (positive) → right-temple tension briefly up to 2.5/10; cool cloth + slow breathing → back to 2/10 within 15 min."
+    },
+    {
+      "Time": "2025-07-01T15:30",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "afternoon: Light work block; hourly micro-moves; no nap; pain held ≤ 2. Snacked on two string-cheese sticks 15 : 30."
+    },
+    {
+      "Time": "2025-07-01T18:00",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "Homemade spicy-sour soup (contained soy-sauce base)."
+    },
+    {
+      "Time": "2025-07-01T19:45",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "Contrast set on right neck/scap 19 : 45 (warm 5 min → cool 1 min) • Small pillow under elbow while reading to keep scapula level."
+    },
+    {
+      "Time": "2025-07-01T21:30",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "evening status (21 : 30): Pain: right-temple ≤ 1.5 • neck ≤ 1.5 • left scap calm. Fog 0. Still mild money/job rumination."
+    },
+    {
+      "Time": "2025-07-01T22:00",
+      "Type": "sleep_note",
+      "Subtype": "bedtime",
+      "Notes": "In bed"
+    },
+    {
+      "Time": "2025-07-01T22:00",
+      "Type": "sleep_note",
+      "Subtype": "bedtime",
+      "Notes": "Took Unisom 12.5 mg again; lights out ≈22 : 00."
+    }
+  ],
+  "SleepWindow": {
+    "Bed": "22:00",
+    "Wake": "05:24"
+  },
+  "CaffeineMg": 120,
+  "HydrationOz": 56,
+  "StressLevel": null,
+  "StressNotes": "",
+  "Meals": [
+    {
+      "Time": "06:54",
+      "Skipped": false,
+      "Notes": "Oatmeal + blueberries + 1 steamed egg."
+    },
+    {
+      "Time": "18:00",
+      "Skipped": false,
+      "Notes": "Homemade spicy-sour soup (contained soy-sauce base)."
+    },
+    {
+      "Time": "12:00",
+      "Skipped": false,
+      "Notes": "Horror movie 28 weeks later"
+    }
+  ],
+  "Medications": [],
+  "PainEpisodes": [],
+  "Weather": {},
+  "Reflection": {
+    "Accomplishments": "",
+    "Bothering": "",
+    "TomorrowPlan": ""
+  },
+  "Notes": ""
+}

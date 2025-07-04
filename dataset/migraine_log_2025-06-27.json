@@ -1,0 +1,198 @@
+{
+  "Date": "2025-06-27",
+  "TimelineEvents": [
+    {
+      "Time": "2025-06-27T05:30",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "Up for day"
+    },
+    {
+      "Time": "2025-06-27T05:59",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "05 : 59 – Riboflavin 400 mg, Magnesium glycinate 135 mg, Fish-oil soft-gel #1",
+      "Value": 400.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-27T05:59",
+      "Type": "meal",
+      "Subtype": "breakfast",
+      "Notes": "½ c oats + ½ c oat milk • 1 Tbsp yogurt • handful almonds & pecans • 2 steamed eggs"
+    },
+    {
+      "Time": "2025-06-27T06:00",
+      "Type": "caffeine",
+      "Subtype": "coffee",
+      "Notes": "Double-shot espresso (~120 mg) in 1 c oat milk @ 06 : 00",
+      "Value": 120,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-27T06:34",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "Contrast #1 (heat 10 min → ice 2 min) • chin-tucks × 5 • ear-to-shoulder stretch 30 s/side • scap-pinch × 10"
+    },
+    {
+      "Time": "2025-06-27T06:57",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "Bottle #1 32 oz (+½ electrolyte pkt) ✔︎ 06 : 57 Bottle #2 32 oz (+½ pkt) ✔︎ ≈ 12 : 30 Bottle #3 20 oz – half (10 oz) by evening",
+      "Value": 94,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-06-27T09:40",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "09 : 40 – 10 : 10: Foam-rolling upper back & legs + lacrosse-ball scapular release (30 min)"
+    },
+    {
+      "Time": "2025-06-27T10:10",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "10 : 10 – 11 : 10: 1-h upper-body PT session"
+    },
+    {
+      "Time": "2025-06-27T10:12",
+      "Type": "stress",
+      "Subtype": "general",
+      "Notes": "Mild R-temple / eye tension (prodrome watch)"
+    },
+    {
+      "Time": "2025-06-27T10:45",
+      "Type": "stress",
+      "Subtype": "general",
+      "Notes": "Contrast #2 (heat 10 min → ice 2 min) • 10-min body-scan • Bottle #2 opened"
+    },
+    {
+      "Time": "2025-06-27T11:16",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "11 : 16 status: Tension ↓ to ≤ 0.5 / 10 • fog ≈ 1 – 2 • noise sensitivity settled"
+    },
+    {
+      "Time": "2025-06-27T12:00",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "Fog 2 / 10 on rising – neck stiff, light R-temple scalp tension ≈ 1 / 10"
+    },
+    {
+      "Time": "2025-06-27T12:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "late-morning patches: Salonpas on R lev-scap strip & R scapular border • peppermint oil dab to R temple"
+    },
+    {
+      "Time": "2025-06-27T12:00",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "time/content not logged (dinner postponed)"
+    },
+    {
+      "Time": "2025-06-27T12:00",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "Finished only half of Bottle #3 (total fluids ≈ 74 oz)",
+      "Value": 74,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-06-27T12:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "notes / triggers: Late mouse reach + delayed dinner likely primed upper-trap tension; multiple contrast sets, arm-rest support, and early patches kept pain minimal."
+    },
+    {
+      "Time": "2025-06-27T12:45",
+      "Type": "meal",
+      "Subtype": "lunch",
+      "Notes": "Left-over tofu-tomato-pepper stir-fry • apple slice • string-cheese stick"
+    },
+    {
+      "Time": "2025-06-27T15:08",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "afternoon 15 : 08: Contrast #3 (heat 10 min → ice 2 min) • snack – string-cheese × 2"
+    },
+    {
+      "Time": "2025-06-27T17:04",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "17:04:00: Tightness returned in R scapular strip → Body-Back Buddy cane 3 × 30 s trigger presses"
+    },
+    {
+      "Time": "2025-06-27T18:04",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "18 : 04 status: Head clear, fog 0 – 1 • shoulder/neck “not bad” under arm-rest support"
+    },
+    {
+      "Time": "2025-06-27T18:41",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "18 : 41 flare: Mild temple tightness after long sitting; applied POAM essential-oil blend to hairline"
+    },
+    {
+      "Time": "2025-06-27T19:00",
+      "Type": "pain",
+      "Subtype": "status_update",
+      "Notes": "Settled to ≤ 1 / 10 by 19 : 00; no migraine onset",
+      "Value": 1,
+      "Units": "1-10"
+    },
+    {
+      "Time": "2025-06-27T21:30",
+      "Type": "sleep_note",
+      "Subtype": "bedtime",
+      "Notes": "In bed"
+    }
+  ],
+  "SleepWindow": {
+    "Bed": "21:30",
+    "Wake": "12:00"
+  },
+  "CaffeineMg": 120,
+  "HydrationOz": 168,
+  "StressLevel": null,
+  "StressNotes": "",
+  "Meals": [
+    {
+      "Time": "05:59",
+      "Skipped": false,
+      "Notes": "½ c oats + ½ c oat milk • 1 Tbsp yogurt • handful almonds & pecans • 2 steamed eggs"
+    },
+    {
+      "Time": "12:45",
+      "Skipped": false,
+      "Notes": "Left-over tofu-tomato-pepper stir-fry • apple slice • string-cheese stick"
+    },
+    {
+      "Time": "12:00",
+      "Skipped": false,
+      "Notes": "time/content not logged (dinner postponed)"
+    }
+  ],
+  "Medications": [],
+  "PainEpisodes": [
+    {
+      "Start": "2025-06-27T19:00",
+      "Peak": "2025-06-27T19:00",
+      "End": null,
+      "Location": "General",
+      "Intensity": [
+        1
+      ],
+      "Notes": "Settled to ≤ 1 / 10 by 19 : 00; no migraine onset"
+    }
+  ],
+  "Weather": {},
+  "Reflection": {
+    "Accomplishments": "",
+    "Bothering": "",
+    "TomorrowPlan": ""
+  },
+  "Notes": ""
+}

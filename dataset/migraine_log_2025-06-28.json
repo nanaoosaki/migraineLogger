@@ -1,0 +1,210 @@
+{
+  "Date": "2025-06-28",
+  "TimelineEvents": [
+    {
+      "Time": "2025-06-28T05:30",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "Mild dizziness from doxylamine; fog ≈ 0.5"
+    },
+    {
+      "Time": "2025-06-28T06:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "neck-primer 6 : 00: Chin-tucks × 10 • ear-to-shoulder 15 s/side • scap-pinches × 10"
+    },
+    {
+      "Time": "2025-06-28T06:05",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "16 oz water + ½ electrolyte pkt finished 6 : 05",
+      "Value": 16,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-06-28T06:05",
+      "Type": "meal",
+      "Subtype": "breakfast",
+      "Notes": "Three scoops non-fat yogurt • pecans & almonds • drizzle honey • poppy seeds • double-shot espresso in oat milk"
+    },
+    {
+      "Time": "2025-06-28T06:05",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "Riboflavin 400 mg • Magnesium glycinate 135 mg • Fish-oil soft-gel #1",
+      "Value": 400.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-28T08:58",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "08 : 58 String-cheese × 2 • 10 : 00 Korean bakery bread-bun"
+    },
+    {
+      "Time": "2025-06-28T09:27",
+      "Type": "activity",
+      "Subtype": "general",
+      "Notes": "30-min slow walk with Jack"
+    },
+    {
+      "Time": "2025-06-28T09:30",
+      "Type": "sleep_note",
+      "Subtype": "bedtime",
+      "Notes": "In bed"
+    },
+    {
+      "Time": "2025-06-28T09:45",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "Plain water — finished by 09 : 45"
+    },
+    {
+      "Time": "2025-06-28T12:00",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "Plain — 8 oz during morning; rest untouched",
+      "Value": 8,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-06-28T12:00",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "Bottle #3 32 oz (plain) opened 10 a.m. but only sipped; cumulative fluids lagged",
+      "Value": 32,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-06-28T12:00",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "(time not logged – likely after patches; meal details not provided)"
+    },
+    {
+      "Time": "2025-06-28T12:00",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "Finished Bottle #3, removed patches before bed; no migraine onset"
+    },
+    {
+      "Time": "2025-06-28T12:39",
+      "Type": "meal",
+      "Subtype": "lunch",
+      "Notes": "Grilled salmon • arugula & iceberg salad"
+    },
+    {
+      "Time": "2025-06-28T12:39",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "Riboflavin 400 mg • Magnesium glycinate 135 mg • Fish-oil soft-gel #2",
+      "Value": 400.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-28T12:39",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "patch rotation 12 : 39: Salonpas on right scapular border (cooling knot ≤ 1)"
+    },
+    {
+      "Time": "2025-06-28T13:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "emotional surge 13 : 00 – 14 : 30: Crying / stress spike → left-neck & temple tension ≈ 2; noise sensitivity"
+    },
+    {
+      "Time": "2025-06-28T15:10",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "green-tea 15 : 10: Mug (~ 70 mg caffeine)"
+    },
+    {
+      "Time": "2025-06-28T15:29",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "Chin-tucks × 10 • trapezius stretch 10 breaths/side • scap stretch 10 breaths/side • Mulligan towel turns 15 s/side — pain eased"
+    },
+    {
+      "Time": "2025-06-28T16:15",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "contrast #2 16 : 15: 5 min heat → 2 min ice (left neck)"
+    },
+    {
+      "Time": "2025-06-28T16:44",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "Up to 24 oz consumed",
+      "Value": 24,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-06-28T18:40",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "~28 oz by 18 : 40 (≈ 92 oz total fluids for the day)",
+      "Value": 120,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-06-28T18:41",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "Fish-oil soft-gel #3 • Magnesium glycinate 135 mg",
+      "Value": 135.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-28T18:41",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "patch swap 18 : 41: Three Salonpas strips on left posterior neck (photo)"
+    },
+    {
+      "Time": "2025-06-28T18:41",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "evening status 18 : 41: Fog 0 • Left-temple ache ≈ 0.5 • Neck tension mild; patches cooling"
+    }
+  ],
+  "SleepWindow": {
+    "Bed": "09:30",
+    "Wake": "05:30"
+  },
+  "CaffeineMg": 0,
+  "HydrationOz": 200,
+  "StressLevel": null,
+  "StressNotes": "",
+  "Meals": [
+    {
+      "Time": "06:05",
+      "Skipped": false,
+      "Notes": "Three scoops non-fat yogurt • pecans & almonds • drizzle honey • poppy seeds • double-shot espresso in oat milk"
+    },
+    {
+      "Time": "08:58",
+      "Skipped": false,
+      "Notes": "08 : 58 String-cheese × 2 • 10 : 00 Korean bakery bread-bun"
+    },
+    {
+      "Time": "12:39",
+      "Skipped": false,
+      "Notes": "Grilled salmon • arugula & iceberg salad"
+    },
+    {
+      "Time": "12:00",
+      "Skipped": false,
+      "Notes": "(time not logged – likely after patches; meal details not provided)"
+    }
+  ],
+  "Medications": [],
+  "PainEpisodes": [],
+  "Weather": {},
+  "Reflection": {
+    "Accomplishments": "",
+    "Bothering": "",
+    "TomorrowPlan": ""
+  },
+  "Notes": ""
+}

@@ -1,0 +1,142 @@
+{
+  "Date": "2025-07-03",
+  "TimelineEvents": [
+    {
+      "Time": "2025-07-03T06:00",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "Up for day"
+    },
+    {
+      "Time": "2025-07-03T06:00",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "R-temple throb 1 /10 • mild vertigo • neck stiff"
+    },
+    {
+      "Time": "2025-07-03T06:31",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "06:31 Ubrogepant 50 mg — July Dose #2",
+      "Value": 50.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-07-03T07:29",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "07:29 Salonpas 4 % lidocaine patch to R-neck • Po Sum On oil on hairline"
+    },
+    {
+      "Time": "2025-07-03T09:45",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "doctor visit (≈ 09:45): Trigger-point injection to neck muscle • labs while fasting"
+    },
+    {
+      "Time": "2025-07-03T10:15",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "post-visit intake (10:15): 16 oz electrolyte water • ½ cup coffee • crackers + croissant"
+    },
+    {
+      "Time": "2025-07-03T11:10",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "11:10 Excedrin Migraine × 2 (acetaminophen 500 mg + aspirin 500 mg + caffeine 130 mg)",
+      "Value": 500.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-07-03T12:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "fasting / physical: Fasted for annual physical; BP 112/70"
+    },
+    {
+      "Time": "2025-07-03T12:00",
+      "Type": "pain",
+      "Subtype": "status_update",
+      "Notes": "Temple pain crept to ≈ 2 /10; neck tight; vertigo mild",
+      "Value": 2,
+      "Units": "1-10"
+    },
+    {
+      "Time": "2025-07-03T12:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "afternoon: Quiet work; noise sensitivity lingered • right-scap menthol patch during light piano"
+    },
+    {
+      "Time": "2025-07-03T12:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "key notes: • July Ubrelvy tally now at 2 doses (2 Jul & 3 Jul) • Sublingual CBD plus caffeine/Excedrin likely drove lingering vertigo and sedation • Pillow over-adjustment in evening triggered nausea/vomiting; softer pillow kept, no further testing until vestibular calm"
+    },
+    {
+      "Time": "2025-07-03T12:30",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "noon status (12:30): Pain gone; vertigo minimal; took 2 drops sublingual CBD → felt sedated/heavy"
+    },
+    {
+      "Time": "2025-07-03T12:30",
+      "Type": "meal",
+      "Subtype": "lunch",
+      "Notes": "12:30 ½ CAVA grilled-chicken bowl + pita"
+    },
+    {
+      "Time": "2025-07-03T18:30",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "evening: 18:30 bread-bowl chicken-noodle soup • Mg 135 mg + fish-oil #3 • lights out 20:40"
+    },
+    {
+      "Time": "2025-07-03T21:00",
+      "Type": "sleep_note",
+      "Subtype": "bedtime",
+      "Notes": "In bed"
+    },
+    {
+      "Time": "2025-07-03T21:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "night: Slept ≈ 21:00 → woke 04:00 on 4 Jul; mild residual vertigo"
+    }
+  ],
+  "SleepWindow": {
+    "Bed": "21:00",
+    "Wake": "06:00"
+  },
+  "CaffeineMg": 0,
+  "HydrationOz": 0,
+  "StressLevel": null,
+  "StressNotes": "",
+  "Meals": [
+    {
+      "Time": "12:30",
+      "Skipped": false,
+      "Notes": "12:30 ½ CAVA grilled-chicken bowl + pita"
+    }
+  ],
+  "Medications": [],
+  "PainEpisodes": [
+    {
+      "Start": "2025-07-03T12:00",
+      "Peak": "2025-07-03T12:00",
+      "End": null,
+      "Location": "General",
+      "Intensity": [
+        2
+      ],
+      "Notes": "Temple pain crept to ≈ 2 /10; neck tight; vertigo mild"
+    }
+  ],
+  "Weather": {},
+  "Reflection": {
+    "Accomplishments": "",
+    "Bothering": "",
+    "TomorrowPlan": ""
+  },
+  "Notes": ""
+}

@@ -1,0 +1,107 @@
+{
+  "Date": "2025-06-24",
+  "TimelineEvents": [
+    {
+      "Time": "2025-06-24T12:00",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "“Felt good,” brief dizziness while making coffee"
+    },
+    {
+      "Time": "2025-06-24T12:00",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "✓ Riboflavin 400 mg (morning) ✓ Fish-oil 1 soft-gel (of 3 daily) ✓ Magnesium citramate 135 mg",
+      "Value": 400.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-24T12:00",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "Breakfast (~7 a.m.) Yogurt + blueberries, almonds/pecans, poppy seeds, honey Lunch (~12 p.m.) CAVA bowl (greens, lentils, dips, falafel, veg, side pita) Dinner (~6 p.m.) 5–6 fried boneless chicken pieces, celery × 5 & carrot × 4 sticks, ½ ranch cup, rosemary bread slice, 4 roasted cherry tomatoes"
+    },
+    {
+      "Time": "2025-06-24T12:00",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "~105 oz total (first 30 oz with Liquid IV; +15 oz mid-PM with remaining electrolytes)",
+      "Value": 150,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-06-24T12:00",
+      "Type": "caffeine",
+      "Subtype": "coffee",
+      "Notes": "1 pour-over coffee (morning)",
+      "Value": 120,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-06-24T12:00",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "Chin-tucks × 10 • Trapezius stretch 15 breaths/side • Mulligan towel turns ≈ 15 s/side"
+    },
+    {
+      "Time": "2025-06-24T12:00",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "10-min body-scan after lunch"
+    },
+    {
+      "Time": "2025-06-24T12:00",
+      "Type": "stress",
+      "Subtype": "general",
+      "Notes": "1–2 early ➜ re-rated ≈ 3 after heavy context-switching"
+    },
+    {
+      "Time": "2025-06-24T12:00",
+      "Type": "pain",
+      "Subtype": "status_update",
+      "Notes": "not recorded"
+    },
+    {
+      "Time": "2025-06-24T12:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "notes / flags: High-sodium fried dinner; hydration taper advised after 7 p.m. to cut night wakings."
+    },
+    {
+      "Time": "2025-06-24T14:30",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "notable symptoms: 08 a.m. brain-fog 3-4/10 (coffee mis-step) 14 :30 fog 3-4/10 → 1-2 after electrolytes + nuts 20 :00 right shoulder-blade pain began"
+    },
+    {
+      "Time": "2025-06-24T20:24",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "20 :24 lidocaine 4 % + menthol 1 % cream to neck/upper scapula 20 :45 applied two Salonpas patches to right scapular strip"
+    }
+  ],
+  "SleepWindow": {
+    "Bed": "",
+    "Wake": "12:00"
+  },
+  "CaffeineMg": 120,
+  "HydrationOz": 150,
+  "StressLevel": null,
+  "StressNotes": "",
+  "Meals": [
+    {
+      "Time": "12:00",
+      "Skipped": false,
+      "Notes": "Breakfast (~7 a.m.) Yogurt + blueberries, almonds/pecans, poppy seeds, honey Lunch (~12 p.m.) CAVA bowl (greens, lentils, dips, falafel, veg, side pita) Dinner (~6 p.m.) 5–6 fried boneless chicken pieces, celery × 5 & carrot × 4 sticks, ½ ranch cup, rosemary bread slice, 4 roasted cherry tomatoes"
+    }
+  ],
+  "Medications": [],
+  "PainEpisodes": [],
+  "Weather": {},
+  "Reflection": {
+    "Accomplishments": "",
+    "Bothering": "",
+    "TomorrowPlan": ""
+  },
+  "Notes": ""
+}

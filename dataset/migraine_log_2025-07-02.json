@@ -1,0 +1,138 @@
+{
+  "Date": "2025-07-02",
+  "TimelineEvents": [
+    {
+      "Time": "2025-07-02T02:00",
+      "Type": "sleep_note",
+      "Subtype": "restless_awake",
+      "Notes": "Awake"
+    },
+    {
+      "Time": "2025-07-02T05:24",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "Up for day"
+    },
+    {
+      "Time": "2025-07-02T05:24",
+      "Type": "sleep_note",
+      "Subtype": "wake",
+      "Notes": "R-temple pain 2 /10 • R-neck 2 • R-scap 2 • L-scap 1 • Fog 1 • underlying money/job anxiety"
+    },
+    {
+      "Time": "2025-07-02T05:40",
+      "Type": "hydration",
+      "Subtype": "water",
+      "Notes": "05 : 40 8 oz plain water ✔︎ 06 : 45 Bottle #1 32 oz +¼ pkt electrolytes → finished 06 : 52 ✔︎ 08 : 00 Bottle #2 32 oz (plain) → finished 11 : 22 ✔︎ 11 : 22 Bottle #3 32 oz (plain) → finished 16 : 43 ✔︎  (cumulative ≈ 80 oz)",
+      "Value": 184,
+      "Units": "oz"
+    },
+    {
+      "Time": "2025-07-02T06:00",
+      "Type": "bodycare",
+      "Subtype": "therapy",
+      "Notes": "06 : 00 Chin-tuck, ear-to-shoulder, “armpit-smell” stretches 07 : 00 Lacrosse-ball release R-scap 07 : 05 Warm 3 min → cool cloth 45 s on R-occiput"
+    },
+    {
+      "Time": "2025-07-02T06:42",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "06 : 42 Ubrogepant 50 mg (dose #1 in this month) → temple pain ↓ to 1",
+      "Value": 50.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-07-02T06:54",
+      "Type": "meal",
+      "Subtype": "dinner",
+      "Notes": "06 : 54 Oatmeal + blueberries + 1 steamed egg 12 : 00 ½ Chipotle grilled-chicken bowl + pita Coffee: one pour-over (~120 mg) at 07 : 10"
+    },
+    {
+      "Time": "2025-07-02T07:05",
+      "Type": "supplement",
+      "Subtype": "general",
+      "Notes": "07 : 05 Riboflavin 400 mg • Mg 135 mg • Fish-oil #1 12 : 05 Riboflavin 400 mg • Mg 135 mg • Fish-oil #2",
+      "Value": 400.0,
+      "Units": "mg"
+    },
+    {
+      "Time": "2025-07-02T07:15",
+      "Type": "pain",
+      "Subtype": "status_update",
+      "Notes": "07 : 15 R-temple 1 • R-neck 2 • R-scap 2 • Fog 1 11 : 30 R-temple 0.5 • R-neck 1.5 • R-scap 1.5 • Fog 1 12 : 47 R-temple 1.5–2 (anger spike) • Fog 1.5 16 : 43 R-temple 0.5 • R-neck 1 • R-scap 1.5 • Fog 1",
+      "Value": 1,
+      "Units": "1-10"
+    },
+    {
+      "Time": "2025-07-02T09:00",
+      "Type": "stress",
+      "Subtype": "general",
+      "Notes": "Personal training 09 : 00 — cancelled 11 : 30 meeting — cancelled 12 : 00 1-on-1 with boss — attended (camera off) Guitar lesson — cancelled"
+    },
+    {
+      "Time": "2025-07-02T12:00",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "overall notes: Early Ubrogepant + 80 oz hydration + posture breaks held pain ≤ 2/10 all day. Emotional surges were main flare triggers; canceling high-effort activities prevented escalation."
+    },
+    {
+      "Time": "2025-07-02T12:47",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "emotional events: 12 : 47 call with David → anger/frustration surge (temple pain ↑ to 1.5–2, fog 1.5) 16 : 16 anger resurfaced during solo desk work"
+    },
+    {
+      "Time": "2025-07-02T18:03",
+      "Type": "note",
+      "Subtype": "general",
+      "Notes": "evening routine: 18 : 03 Salonpas patch on R-scap Dinner 18 : 30 (bread bowl + chicken noodle) Evening Mg 135 mg + Fish-oil #3 Lights out 21 : 30"
+    },
+    {
+      "Time": "2025-07-02T21:30",
+      "Type": "sleep_note",
+      "Subtype": "bedtime",
+      "Notes": "In bed"
+    },
+    {
+      "Time": "2025-07-02T22:00",
+      "Type": "sleep_note",
+      "Subtype": "asleep",
+      "Notes": "Fell asleep"
+    }
+  ],
+  "SleepWindow": {
+    "Bed": "21:30",
+    "Wake": "05:24"
+  },
+  "CaffeineMg": 0,
+  "HydrationOz": 184,
+  "StressLevel": null,
+  "StressNotes": "",
+  "Meals": [
+    {
+      "Time": "06:54",
+      "Skipped": false,
+      "Notes": "06 : 54 Oatmeal + blueberries + 1 steamed egg 12 : 00 ½ Chipotle grilled-chicken bowl + pita Coffee: one pour-over (~120 mg) at 07 : 10"
+    }
+  ],
+  "Medications": [],
+  "PainEpisodes": [
+    {
+      "Start": "2025-07-02T07:15",
+      "Peak": "2025-07-02T07:15",
+      "End": null,
+      "Location": "General",
+      "Intensity": [
+        1
+      ],
+      "Notes": "07 : 15 R-temple 1 • R-neck 2 • R-scap 2 • Fog 1 11 : 30 R-temple 0.5 • R-neck 1.5 • R-scap 1.5 • Fog 1 12 : 47 R-temple 1.5–2 (anger spike) • Fog 1.5 16 : 43 R-temple 0.5 • R-neck 1 • R-scap 1.5 • Fog 1"
+    }
+  ],
+  "Weather": {},
+  "Reflection": {
+    "Accomplishments": "",
+    "Bothering": "",
+    "TomorrowPlan": ""
+  },
+  "Notes": ""
+}
